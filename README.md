@@ -1,6 +1,6 @@
 # Jogo Adivinhe o Número
 
-[![License](https://img.shields.io/github/license/seuusuario/seurepositorio)](https://github.com/seuusuario/seurepositorio/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Swift](https://img.shields.io/badge/Swift-5.0-orange)](https://swift.org)
 
 Este é um projeto em Swift que implementa um simples jogo "Adivinhe o Número". O jogador tenta adivinhar um número secreto dentro de um intervalo especificado.
